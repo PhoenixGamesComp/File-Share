@@ -22,7 +22,7 @@
 ```
 python3 file-client.py --mode single --dir C:\Users\Username\Documents\Test --file test.txt --address [server_address]
 python3 file-client.py --mode multi --dir ~/Documents/Test --address [server_address]
-python3 file-client.py --mode multi --dir [directory_path] --address [server_address]
+python3 file-client.py --mode zip --dir [directory_path] --address [server_address]
 ```
 
 ### For both of the scripts you can use:
